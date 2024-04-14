@@ -1,4 +1,8 @@
 # BASIC-PYTHON-DATA-MANIPULATION-OBEJECTIVES
+
+
+![image](https://github.com/Dhivya1420/BASIC-PYTHON-DATA-MANIPULATION-/assets/164134417/e4125fc7-369d-49da-8103-f0063743cd57)
+
 Base Python Manipulation Project is focused on mastering Fundamental Data Manipulation Techniques using Base Python. By diving deep into the foundational aspects of python, you will build a solid understanding that forms the basis for more advanced programming concepts and Application.
 
 # Conditional Statement : if statement, if-else statement, if-elif-else statement, Nested-if
