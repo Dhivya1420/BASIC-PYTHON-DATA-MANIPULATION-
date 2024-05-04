@@ -387,7 +387,7 @@ Lambda functions are anonymous functions. It contains a single line code and the
 
 
 # Inheritance:
-     Inheritance is a property in Object-Oriented programming(oop). In which derived class or child class inherits some properties of parent class.The child class able to access the methods and instance variables of a parent class then we don't want to create the object of a parent class.
+Inheritance is a property in Object-Oriented programming(oop). In which derived class or child class inherits some properties of parent class.The child class able to access the methods and instance variables of a parent class then we don't want to create the object of a parent class.
 
 # Types of Inheritance:
 (1) **Single Inheritance**: A child class inherits only from base class. Here we have only one parent child relationship.
