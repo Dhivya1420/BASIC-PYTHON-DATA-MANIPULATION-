@@ -480,5 +480,5 @@ Lambda functions are anonymous functions. It contains a single line code and the
 
 
 # CONCLUSION:
-     Base Python Manipulation Objectives are focused on mastering fundamental data manipulation techniques using base python. Working with python data structures list,tuple,set and dictionary to store and manipulate data.Implementing user-defined functions to encapsulate reusable blocks of code.Using control flow statements like if-elif-else and loops to create interactive functionality.Enhancing the user experience by providing clear prompts and instructions.Over all this project covers basic functionality and provided a solid foundation in python programming.
+Base Python Manipulation Objectives are focused on mastering fundamental data manipulation techniques using base python. Working with python data structures list,tuple,set and dictionary to store and manipulate data.Implementing user-defined functions to encapsulate reusable blocks of code.Using control flow statements like if-elif-else and loops to create interactive functionality.Enhancing the user experience by providing clear prompts and instructions.Over all this project covers basic functionality and provided a solid foundation in python programming.
 
