@@ -386,6 +386,99 @@ Lambda functions are anonymous functions. It contains a single line code and the
 ![image](https://github.com/Dhivya1420/BASIC-PYTHON-DATA-MANIPULATION-/assets/164134417/95a6494c-4f48-49c7-9768-66aa0c7bffd8)
 
 
+# Inheritance:
+     Inheritance is a property in Object-Oriented programming(oop). In which derived class or child class inherits some properties of parent class.The child class able to access the methods and instance variables of a parent class then we don't want to create the object of a parent class.
+
+# Types of Inheritance:
+(1) **Single Inheritance**: A child class inherits only from base class. Here we have only one parent child relationship.
+
+(2) **Multiple Inheritance:** A single child class can inherits the properties of more than one parent class. Here a single child and 
+    multiple parents relationship.
+
+(3) **Multilevel Inheritance:** A class inherits properties and behaviors from another class, which in turn may inherit from another 
+    class. It is a step wise inheritance.
+
+(4) **Hierarchial Inheritance:** ability of a subclass to inherit properties and behavior from multiple superclasses, forming a 
+    hierarchical tree-like structure. This allows for the creation of increasingly specialized classes, each building upon the 
+    characteristics of its parent classes.Here one parent and two child relationship.
+
+(5) **Hybrid Inheritance:** It is the combination of single, multiple, multilevel and hierarchial inheritance.
+
+# Question No : 51) Create a single inheritance?
+**code:**
+
+![image](https://github.com/Dhivya1420/BASIC-PYTHON-DATA-MANIPULATION-/assets/164134417/e95c0b11-4861-43e8-945e-77564636f84f)
+
+
+# Question No : 52) Create a single inheritance of class car?
+**code:**
+
+![image](https://github.com/Dhivya1420/BASIC-PYTHON-DATA-MANIPULATION-/assets/164134417/57ba47b7-7cb4-4778-b224-fed6b6a80fba)
+
+
+# Question No : 53) Create a inheritance to show one parent - child relationship?
+**code:**
+
+![image](https://github.com/Dhivya1420/BASIC-PYTHON-DATA-MANIPULATION-/assets/164134417/99b84e86-1000-4f02-bade-4fb7458bacca)
+
+
+# Question No : 54) Single Inheritance to show Manager and Employee relation ?
+**code:**
+
+![image](https://github.com/Dhivya1420/BASIC-PYTHON-DATA-MANIPULATION-/assets/164134417/04d43a79-76ac-4d76-a39c-7ba4b3eba838)
+
+
+# Question No : 55) Create a Multiple Inheritance?
+**code:**
+
+![image](https://github.com/Dhivya1420/BASIC-PYTHON-DATA-MANIPULATION-/assets/164134417/756d1183-6e25-44c3-963c-c2ccc1cf70eb)
+
+
+# Question No : 56) Create a inheritance to show multiple parent with one child relationship?
+**code:**
+
+![image](https://github.com/Dhivya1420/BASIC-PYTHON-DATA-MANIPULATION-/assets/164134417/0d83185a-c4a2-4344-8629-0c1a51d40686)
+
+
+# Question No : 57) Multiple Inheritance to show the relation of Work from home, Work from Office and Hybrid?
+**code:**
+
+![image](https://github.com/Dhivya1420/BASIC-PYTHON-DATA-MANIPULATION-/assets/164134417/c12cf8d0-3d72-478c-9950-0fbc6b04b0b8)
+
+
+# Question No : 58) Create a multilevel inheritance?
+**code:**
+
+![image](https://github.com/Dhivya1420/BASIC-PYTHON-DATA-MANIPULATION-/assets/164134417/89f019a6-3abf-4bf5-8f45-05c51acb3fde)
+
+
+# Question No : 59) Multilevel Inheritance to show the iPhone 13, iPhone 14 and iPhone 15 relations?
+**code:**
+
+![image](https://github.com/Dhivya1420/BASIC-PYTHON-DATA-MANIPULATION-/assets/164134417/293b6036-2574-480e-b297-64f8baa37086)
+
+
+# Question No : 60) Create Hierarchial Inheritance in a company's organisational structure?
+**code:**
+
+![image](https://github.com/Dhivya1420/BASIC-PYTHON-DATA-MANIPULATION-/assets/164134417/ef73f220-d70e-41dd-a3a7-0899ce71b526)
+
+
+# Question No : 61) Create a Hybrid Inheritance?
+**code:**
+
+![image](https://github.com/Dhivya1420/BASIC-PYTHON-DATA-MANIPULATION-/assets/164134417/62a1c34a-a90d-4545-b4f6-327fd31ed43d)
+
+
+# Polymorphism:
+  Polymorphism is a property by which one method can perform multiple operation with same time.
+
+# Question No : 62) Create a program to show polymorphism?
+**code:**
+
+![image](https://github.com/Dhivya1420/BASIC-PYTHON-DATA-MANIPULATION-/assets/164134417/195d2850-ac57-4e91-a9b7-5cde305d72a2)
+
+
 # CONCLUSION:
-Base Python Manipulation Objectives are focused on mastering fundamental data manipulation techniques using base python. Working with python data structures list,tuple,set and dictionary to store and manipulate data.Implementing user-defined functions to encapsulate reusable blocks of code.Using control flow statements like if-elif-else and loops to create interactive functionality.Enhancing the user experience by providing clear prompts and instructions.Over all this project covers basic functionality and provided a solid foundation in python programming.
+     Base Python Manipulation Objectives are focused on mastering fundamental data manipulation techniques using base python. Working with python data structures list,tuple,set and dictionary to store and manipulate data.Implementing user-defined functions to encapsulate reusable blocks of code.Using control flow statements like if-elif-else and loops to create interactive functionality.Enhancing the user experience by providing clear prompts and instructions.Over all this project covers basic functionality and provided a solid foundation in python programming.
 
